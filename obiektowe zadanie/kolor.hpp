@@ -1,0 +1,4 @@
+
+class Kolor {
+	void Czerwony();
+};
